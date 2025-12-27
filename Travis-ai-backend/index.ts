@@ -27,7 +27,9 @@ app.listen(port, () => {
 });
 
 app.get("/", (req, res) => {
-  res.send(`<h1> View the api docs <a href="">Here</a></h1>`);
+  res.send(
+    `<h1> View the api docs <a href="79bkunfbq2.apidog.io">Here</a></h1>`
+  );
 });
 
 //Connection to the db
