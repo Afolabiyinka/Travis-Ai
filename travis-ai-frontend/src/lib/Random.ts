@@ -1,0 +1,31 @@
+export const titles = [
+  "Mission Accomplished",
+  "Aight, Here’s the Tea",
+  "Done and Dusted",
+  "Lowkey Fire",
+  "Straight Facts",
+  "No Cap, This Works",
+  "Quick Fix",
+  "Smooth Move",
+  "Job Well Done",
+  "That’s Wrapped",
+  "Another One",
+  "Simple and Clean",
+  "The Plug You Needed",
+  "EZ Mode Activated",
+  "Brain Juice",
+  "Light Work",
+  "Say Less",
+  "Certified Solution",
+  "Just Like That",
+  "Boom. Solved.",
+];
+
+export const excuseSuggestions = [
+  "I’m late because…",
+  // "I didn’t finish my homework because…",
+  "I can’t come to work because…",
+  "I missed the meeting because…",
+  "I forgot to pay because…",
+  // "My dog ate it because…",
+];
